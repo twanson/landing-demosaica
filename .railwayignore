@@ -1,0 +1,7 @@
+# Solo ignorar archivos innecesarios
+.git/
+.DS_Store
+node_modules/
+*.log
+.env.local
+.vscode/
