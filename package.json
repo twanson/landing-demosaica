@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Landing page para el Toolkit de Prescripción de baldosas hidráulicas artesanales de DEMOSAICA",
   "scripts": {
-    "start": "npx serve . -l 8080 --single"
+    "start": "node server.js"
   },
   "dependencies": {
-    "serve": "^14.2.1"
+    "express": "^4.18.2"
   }
 }
